@@ -1,0 +1,8 @@
+Open Source Manifesto
+---------------------
+Date: 31 March 2026
+
+I believe in the power of open source.
+Using tools like firefox, I experience to do whatever i need to do.
+I aim to build open source game library and share it freely with the world.
+Knowledge should be open, accessible, and collaborative.
